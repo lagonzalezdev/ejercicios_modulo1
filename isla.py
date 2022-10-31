@@ -25,17 +25,4 @@ elif companero == "no":
         print("ganaste")
     elif catalejo == "no":
         print("camina a ciegas caes en un hueco, game over")
-
-
-
-
-    
-     
-     
-        #print("oh no, es hora de la siesta del gato, pierdes un turno")
-
-    
-        # if animal ==  gato:
-              #print("oh no, es hora de la siesta del gato, pierdes un turno")
-           # if animal == loro:
-                    #print ("el loro salió volando, ahora estas perdido, game over")
+        
